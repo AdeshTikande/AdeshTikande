@@ -1,13 +1,8 @@
 <div align="center">
 
-# Hi, I'm Adesh Tikande 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Adesh+Tikande+%F0%9F%91%8B;Computer+Engineering+Student;Building+Health360+%F0%9F%8F%A5;AI+%7C+Flutter+%7C+FastAPI+%7C+Firebase)](https://git.io/typing-svg)
 
-**Computer Engineering Student · Builder · Problem Solver**
-
-![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=58a6ff)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3fb950)
-![Django](https://img.shields.io/badge/Django-0d1117?style=for-the-badge&logo=django&logoColor=d29922)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=bc8cff)
+<img src="https://komarev.com/ghpvc/?username=AdeshTikande&color=58a6ff&style=flat-square&label=Profile+Views" />
 
 </div>
 
@@ -73,22 +68,34 @@ I build AI-powered systems, health-tech platforms, and agri-tech solutions.
 
 ## GitHub stats
 
+<div align="center">
+
 ![Adesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdeshTikande&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AdeshTikande&theme=github-dark-blue&hide_border=true&fire=58a6ff&ring=58a6ff&currStreakLabel=c9d1d9)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeshTikande&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
 
+</div>
+
+---
+
+## Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdeshTikande/AdeshTikande/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdeshTikande/AdeshTikande/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/AdeshTikande/AdeshTikande/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ---
 
 ## Connect with me
 
-[![LinkedIn](ttps://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/https://adesh-tikande-6a8523260/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f78166)](mailto:adeshtikande56@gmail.com)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f78166)](mailto:YOUR_EMAIL)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=c9d1d9)](https://YOUR_PORTFOLIO)
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdeshTikande&color=58a6ff&style=flat-square" alt="Profile views" />
 </div>
