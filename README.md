@@ -80,15 +80,7 @@ I build AI-powered systems, health-tech platforms, and agri-tech solutions.
 
 ---
 
-## Contribution snake
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdeshTikande/AdeshTikande/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdeshTikande/AdeshTikande/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/AdeshTikande/AdeshTikande/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
 
 ## Connect with me
 
