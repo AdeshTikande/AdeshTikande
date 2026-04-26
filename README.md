@@ -10,7 +10,7 @@
 
 ## About me
 
-Hey, I'm Adesh — a TE Computer Engineering student at Trinity College of Engineering, Pune (SPPU 2019 Pattern).
+Hey, I'm Adesh — A TE Computer Engineering student at Trinity College of Engineering, Pune (SPPU 2019 Pattern).
 I build AI-powered systems, health-tech platforms, and agri-tech solutions.
 
 - 🔭 Currently building **Health360** — an all-in-one AI health platform (47 features in V1)
