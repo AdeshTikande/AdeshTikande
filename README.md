@@ -52,10 +52,10 @@ I build AI-powered systems, health-tech platforms, and agri-tech solutions.
 
 ---
 
-### 🌾 Agrivend
-> Farmer-to-buyer direct marketplace startup — connecting farmers directly to consumers.
+### 🌾 Farm2Kitchen
+> Web app connecting farmers directly with customers — eliminating middlemen so fresh produce reaches kitchens at fair prices, with product browsing and order management built on Django.
 
-`Agri-Tech` `Startup` `Pitch Deck`
+`Django` `HTML` `CSS` `JavaScript` `SQLite` · [GitHub →](https://github.com/AdeshTikande/Farm2kitchen_)
 
 ---
 
@@ -71,16 +71,12 @@ I build AI-powered systems, health-tech platforms, and agri-tech solutions.
 <div align="center">
 
 ![Adesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdeshTikande&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&bg_color=0d1117)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=AdeshTikande&theme=github-dark-blue&hide_border=true&fire=58a6ff&ring=58a6ff&currStreakLabel=c9d1d9)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeshTikande&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
 
 </div>
 
 ---
-
-
 
 ## Connect with me
 
